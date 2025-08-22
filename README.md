@@ -1,6 +1,6 @@
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页! "/>
 </p>
 
 <p align="center">
@@ -31,16 +31,6 @@
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,raspberrypi,terminal,systemd,py,html,c,vuejs,javascript,nodejs,cs,md,regex,nginx,github,deepseek,docker,visualstudio,vscode,photoshop&titles=true" alt="skill icons" title="skill icons">
-</p>
-
-<p align="center">
-    <!-- https://github.com/Platane/snk -->
-    <!-- <img width="800" src="profile-contrib-snake/github-snake.svg" alt="contrib snake" title="contrib snake"> -->
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanillaNahida/VanillaNahida/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanillaNahida/VanillaNahida/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VanillaNahida/VanillaNahida/output/github-contribution-grid-snake.svg">
-    </picture>
 </p>
 
 <p align="center">
