@@ -1,13 +1,12 @@
-<p align="center">
-    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页! "/>
-</p>
+## VanillaNahida
 
-<p align="center">
-    <a href="https://wakatime.com/VanillaNahida"><img src="https://wakatime.com/badge/user/1f491e16-0dca-40a5-97af-0da852dc31da.svg" alt="wakatime" title="wakatime"/></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/VanillaNahida"><img src="https://komarev.com/ghpvc/?username=VanillaNahida&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
-</p>
+Hello! I'm VanillaNahida, a tech enthusiast and Nahida fan passionate about programming and embedded systems, I work with Python and JavaScript, interested in LLMs and LLM-based Agents, and I hope my small projects can be of help to you! :)  
+I also dedicate time to writing [blogs](https://www.xcnahida.cn), sharing my insights and experiences along the way.
+
+你好！我是VanillaNahida，一名技术爱好者和Nahida粉丝，热衷于编程和嵌入式系统，我使用Python和JavaScript，对大型语言模型和基于LLM的代理感兴趣，希望我的小项目能对你有所帮助！:)
+我还花时间写[博客](https://www.xcnahida.cn)，分享我的见解和经历。
+
+## Profile Stats
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -17,23 +16,16 @@
     <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=VanillaNahida&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" />
 </p>
 
+## My Activity Graph
+
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=VanillaNahida&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
 
-<p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=VanillaNahida&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
-</p>
+## My Favorite 
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,raspberrypi,terminal,systemd,py,html,c,vuejs,javascript,nodejs,cs,md,regex,nginx,github,deepseek,docker,visualstudio,vscode,photoshop&titles=true" alt="skill icons" title="skill icons">
-</p>
-
-<p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <a href="https://wakatime.com/@VanillaNahida"><img width=800 src="https://github-readme-stats.vercel.app/api/wakatime?username=VanillaNahida&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime"></a>
 </p>
