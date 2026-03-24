@@ -3,7 +3,7 @@
 Hello! I'm VanillaNahida, a tech enthusiast and Nahida fan passionate about programming and embedded systems, I work with Python and JavaScript, interested in LLMs and LLM-based Agents, and I hope my small projects can be of help to you! :)  
 I also dedicate time to writing [blogs](https://www.xcnahida.cn), sharing my insights and experiences along the way.
 
-你好！我是VanillaNahida，一名技术爱好者和Nahida粉丝，热衷于编程和嵌入式系统，我使用Python和JavaScript，对大型语言模型和基于LLM的代理感兴趣，希望我的小项目能对你有所帮助！:)
+你好！我是VanillaNahida，一名技术爱好者和Nahida粉丝，热衷于编程和嵌入式系统，我使用Python和JavaScript，对大语言模型和AI Agent感兴趣，希望我的小项目能对你有所帮助！:)
 我还花时间写[博客](https://www.xcnahida.cn)，分享我的见解和经历。
 
 ## Profile Stats
