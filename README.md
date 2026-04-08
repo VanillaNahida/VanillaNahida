@@ -6,6 +6,8 @@ I also dedicate time to writing [blogs](https://www.xcnahida.cn), sharing my ins
 你好！我是VanillaNahida，一名技术爱好者和Nahida粉丝，热衷于编程和嵌入式系统，我使用Python和JavaScript，对大语言模型和AI Agent感兴趣。希望我的小项目能对你有所帮助！:)  
 我还花时间写[博客](https://www.xcnahida.cn)，分享我的见解和经历。
 
+![](https://visitor-badge.laobi.icu/badge?page_id=VanillaNahida.VanillaNahida)
+
 ## Profile Stats
 
 <p align="center">
