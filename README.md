@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6059d2e0-9191-4a3a-90a6-0e109598fbd6" alt="VanillaNahida" width="755">
+</div>
+
 ## VanillaNahida
 
 Hello! I'm VanillaNahida, a tech enthusiast and Nahida fan passionate about programming and embedded systems, I work with Python and JavaScript, interested in LLMs and LLM-based Agents, and I hope my small projects can be of help to you! :)  
