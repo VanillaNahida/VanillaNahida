@@ -28,8 +28,3 @@ I also dedicate time to writing [blogs](https://www.xcnahida.cn), sharing my ins
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=VanillaNahida&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
-
-<!-- <p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,raspberrypi,terminal,systemd,py,html,c,vuejs,javascript,nodejs,cs,md,regex,nginx,github,deepseek,docker,visualstudio,vscode,photoshop&titles=true" alt="skill icons" title="skill icons">
-</p> -->
