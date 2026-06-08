@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6059d2e0-9191-4a3a-90a6-0e109598fbd6" alt="VanillaNahida" width="755">
-</div>
+<!-- <div align="center">
+  <img src="https://github.com/user-attachments/assets/6059d2e0-9191-4a3a-90a6-0e109598fbd6" alt="VanillaNahida" width="320">
+</div> -->
 
 ## VanillaNahida
 
